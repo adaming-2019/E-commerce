@@ -11,6 +11,10 @@ public class Classe {
 	public void setNom(String nom) {
 		this.nom = nom;
 	}
+
+	public Classe() {
+		super();
+	}
 	
 	
 
